@@ -4,6 +4,11 @@ This repository stores the code to replicate the simulations in:
 
 # Tax Evasion on a Social Network #
 
+Duccio Gamannossi degl'Innocenti and Matthew D. Rablen
+
+Reference:
+
+Gamannossi degl'Innocenti, Duccio and Matthew D. Rablen. "Tax Evasion on a Social Network", Journal of Economic Behavior & Organization, Forthcoming.
 
 ### Description of files in the Repo
 
