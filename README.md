@@ -8,7 +8,7 @@ Duccio Gamannossi degl'Innocenti and Matthew D. Rablen
 
 Reference:
 
-Gamannossi degl'Innocenti, Duccio and Matthew D. Rablen. "Tax Evasion on a Social Network", Journal of Economic Behavior & Organization, Forthcoming.
+Gamannossi degl'Innocenti, Duccio and Matthew D. Rablen. "[Tax Evasion on a Social Network](https://www.sciencedirect.com/science/article/pii/S0167268119303440)", Journal of Economic Behavior & Organization, 169, 79-91.
 
 ### Description of files in the Repo
 
